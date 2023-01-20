@@ -1,3 +1,8 @@
 .bikers-zone-light-red {
     background-color: rgba(255, 3, 3, 0.342);
 }
+
+.bikers-zone-btn {
+    background-color: rgb(235, 40, 82);
+    color: white;
+}
